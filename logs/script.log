@@ -1,0 +1,936 @@
+2018-06-29 11:14:13,438 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-06-29 11:14:32,678 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-06-29 11:14:33,058 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2018-06-29 11:14:33,499 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2018-06-29 11:14:58,797 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-06-29 11:48:11,403 [HttpRunnerManager:151] [operation:add_case_data] [INFO]- 的用例添加成功: {'test': {'request': {'method': 'POST', 'url': ''}, 'name': '的'}}
+2018-06-29 11:48:48,076 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:34:18,047 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:18,057 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:18,268 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:18,270 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:18,276 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:18,278 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:18,296 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:18,299 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:18,352 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:18,364 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:18,370 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:18,383 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:18,578 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/favicon.ico
+2018-07-02 13:34:21,442 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:21,445 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:21,449 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:21,484 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:21,487 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:21,492 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:21,508 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:21,516 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:21,519 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:21,531 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:21,540 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:21,545 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:22,424 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:22,426 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:22,429 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:22,465 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:22,466 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:22,468 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:22,480 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:22,483 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:22,490 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:22,498 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:22,506 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:22,509 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:35:30,488 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:48:28,352 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:53:41,984 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:/HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:/HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:/HttpRunnerManager\ApiManager\utils\common.py", line 439, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 13:53:49,147 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:/HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:/HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:/HttpRunnerManager\ApiManager\utils\common.py", line 439, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 13:54:04,117 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 13:54:07,459 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 13:57:09,661 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 13:57:11,824 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:04:39,039 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:04:44,830 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:04:54,650 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 432, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+2018-07-02 14:06:02,565 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/config_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 413, in config_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 432, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+2018-07-02 14:24:14,328 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:24:16,921 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:27:17,963 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:27:44,949 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:27:47,983 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:28:16,257 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:28:18,192 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:37:16,138 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 311, in project_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 442, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 14:37:20,563 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 311, in project_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 442, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 14:37:24,899 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:37:26,773 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:37:30,837 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 170, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 210, in case_info_logic
+    test = kwargs.pop('test')
+KeyError: 'test'
+2018-07-02 14:37:33,775 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 170, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 210, in case_info_logic
+    test = kwargs.pop('test')
+KeyError: 'test'
+2018-07-02 14:39:25,603 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:39:27,918 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:43:42,829 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:43:44,932 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:47:52,728 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:47:54,981 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:55:50,890 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:55:53,036 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2018-07-02 14:57:17,859 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/module_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 345, in module_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 433, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: '用例_quant_login_out(登入登出)'
+2018-07-02 14:59:50,449 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwang退出
+2018-07-02 14:59:52,333 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang 登录成功
+2019-11-21 11:06:12,385 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-21 11:07:35,095 [django.request:228] [log:log_response] [WARNING]- Not Found: /api
+2019-11-21 11:07:41,321 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/regeist/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 12, in process
+    fun = getattr(view, fun)
+AttributeError: module 'ApiManager.views' has no attribute 'regeist'
+2019-11-21 11:08:27,475 [HttpRunnerManager:35] [operation:add_register_data] [INFO]- 新增用户：ApiManager.UserInfo.objects
+2019-11-21 11:08:35,553 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-21 11:15:23,365 [HttpRunnerManager:62] [operation:add_project_data] [INFO]- 项目添加成功：{'project_name': 'ccic 交投接口加入', 'responsible_name': '张映熊', 'test_user': '张映熊', 'dev_user': '苻杰', 'publish_app': 'access', 'simple_desc': 'ccic 交投停车数据接入', 'other_desc': ''}
+2019-11-21 11:18:35,113 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-21 11:18:43,754 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-21 11:28:46,175 [django.request:228] [log:log_response] [WARNING]- Not Found: /api/
+2019-11-21 11:28:51,480 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-22 09:16:26,735 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-22 09:49:26,880 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '停车', 'test_user': '张映熊', 'simple_desc': '', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (1)>}
+2019-11-22 10:58:45,524 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-22 14:20:52,584 [HttpRunnerManager:62] [operation:add_project_data] [INFO]- 项目添加成功：{'project_name': '测试', 'responsible_name': '张映熊', 'test_user': '张映熊', 'dev_user': '苻杰', 'publish_app': '测试', 'simple_desc': '', 'other_desc': ''}
+2019-11-22 14:21:07,221 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '测试', 'test_user': '张映熊', 'simple_desc': '', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (2)>}
+2019-11-22 14:23:24,106 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例用例添加成功: {'test': {'request': {'url': 's?ie=utf-8&wd=1', 'method': 'GET'}, 'name': '测试用例'}}
+2019-11-22 14:28:53,085 [django.request:228] [log:log_response] [WARNING]- Not Found: /api/
+2019-11-22 14:28:59,930 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-22 14:44:11,615 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8&wd=1', 'method': 'GET', 'data': {'timestamp': '1573439802', 'signkey': '$signkey'}}, 'name': '测试用例', 'variables': [{'signkey': '2342334dsfhl34'}]}}
+2019-11-22 14:53:56,104 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': "${calc_md5('1','3','4')}"}}, 'name': '测试用例', 'variables': [{'signkey': '2342334dsfhl34'}]}}
+2019-11-22 14:57:11,335 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': "${sign_md5('1','3','4')}"}}, 'name': '测试用例', 'variables': [{'signkey': '2342334dsfhl34'}]}}
+2019-11-22 14:57:54,420 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-22 14:57:59,420 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-22 15:01:43,482 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': "${sign_md5('1','3','4')}"}}, 'name': '测试用例', 'variables': [{'signkey': '2342334dsfhl34'}, {'kw': "${sign_md5('1','3','4')}"}]}}
+2019-11-22 15:02:47,776 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': "${sign_md5('1','3','4')}"}}, 'name': '测试用例', 'variables': [{'signkey': '2342334dsfhl34'}, {'kw': "${sign_md5('1','3','4')}"}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:03:07,764 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET'}, 'name': '测试用例', 'variables': [{'kw': "${sign_md5('1','3','4')}"}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:05:58,966 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': "${sign_md5('1','3','4')}"}}, 'name': '测试用例', 'variables': [{'kw': "${sign_md5('1','3','4')}"}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:18:54,239 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': "${sign_md5('1','3','4')}"}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:20:47,250 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': '${sign_md5(1,2,3)}'}, {'a': '1'}, {'b': '2'}, {'c': '3'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:28:15,120 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-22 15:29:22,620 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': '${calc_sign(1,2,3)}'}, {'a': '1'}, {'b': '2'}, {'c': '3'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:30:33,424 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': '${calc_sign("1"",2",signkey)}'}, {'a': '1'}, {'b': '2'}, {'c': '3'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:33:13,700 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': '${calc_sign("1"",2",signkey)}'}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:39:06,404 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': '${calc_sign("1"",2",$signkey)}'}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:49:39,626 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': '${calc_sign("1","2",signkey)}'}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 15:51:08,049 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'validate': [{'comparator': 'equals', 'check': 'kw', 'expected': '1'}], 'variables': [{'kw': '${calc_sign("1","2",signkey)}'}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 16:36:38,878 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': 'body.data'}}, 'name': '测试用例', 'validate': [{'comparator': 'equals', 'check': 'kw', 'expected': '1'}], 'variables': [{'kw': '${calc_sign("1","2",signkey)}'}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 16:37:03,313 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$body.data'}}, 'name': '测试用例', 'validate': [{'comparator': 'equals', 'check': 'kw', 'expected': '1'}], 'variables': [{'kw': '${calc_sign("1","2",signkey)}'}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 16:39:00,375 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'validate': [{'comparator': 'equals', 'check': 'kw', 'expected': '1'}], 'extract': [{'kw': '${calc_sign("1","2","3")}'}], 'variables': [{'kw': 'signkey'}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 16:39:56,614 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'extract': [{'kw': '${calc_sign("1","2","3")}'}], 'variables': [{'kw': 'signkey'}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 16:40:50,239 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'extract': [{'kw': '${calc_sign("1","2","3")}'}], 'variables': [{'kw': '${calc_sign()}'}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 16:41:28,621 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'extract': [{'kw': '${calc_sign("1","2","3")}'}], 'variables': [{'kw': "${calc_sign('1','2','3')}"}, {'a': '1'}, {'b': '2'}, {'signkey': 'zzzz'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 16:42:31,859 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': "${calc_sign('1','2','3')}"}, {'a': '1'}, {'b': '2'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 16:46:02,422 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': '${calc_sign(a,b)}'}, {'a': '1'}, {'b': '2'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 16:59:45,711 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': '${calc_sign(a,b)}'}, {'a': '1'}, {'b': '2'}], 'parameters': [{'signkey': ['2342334dsfhl34']}], 'setup_hooks': [], 'teardown_hooks': []}}
+2019-11-22 17:00:17,767 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': "${calc_sign('a','b','c')}"}, {'a': '1'}, {'b': '2'}], 'parameters': [{'signkey': ['2342334dsfhl34']}]}}
+2019-11-22 17:05:18,705 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-22 17:05:44,048 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-22 17:07:49,164 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-22 18:07:02,880 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'GET', 'params': {'kw': '$kw'}}, 'name': '测试用例', 'variables': [{'kw': 'cc'}]}}
+2019-11-22 18:09:25,099 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 237, in run_test
+    shutil.rmtree(testcase_dir_path)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 516, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 404, in _rmtree_unsafe
+    onerror(os.rmdir, path, sys.exc_info())
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 402, in _rmtree_unsafe
+    os.rmdir(path)
+OSError: [WinError 145] 目录不是空的。: 'D:\\HttpRunnerManager\\suite\\2019-11-22 18-08-50-068'
+2019-11-22 18:18:31,998 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 237, in run_test
+    shutil.rmtree(testcase_dir_path)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 516, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 395, in _rmtree_unsafe
+    _rmtree_unsafe(fullname, onerror)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 404, in _rmtree_unsafe
+    onerror(os.rmdir, path, sys.exc_info())
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 402, in _rmtree_unsafe
+    os.rmdir(path)
+OSError: [WinError 145] 目录不是空的。: 'D:\\HttpRunnerManager\\suite\\2019-11-22 18-17-56-892\\测试'
+2019-11-25 09:15:03,147 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-25 09:25:55,755 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'POST', 'json': {'sign': '123'}, 'headers': {'Content-Type': 'application/json', 'User-Agent': 'python-requests/2.18.4', 'app_version': '$app_version'}}, 'name': '测试用例', 'variables': [{'kw': 'cc'}, {'app_version': '2.8.6'}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-25 09:26:33,629 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-25 09:31:11,951 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-25 09:39:41,704 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-25 09:40:36,563 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'POST', 'json': {'arrive_ls': '5ea93e090b', 'arrive_time': '20191111230819', 'car_license': '川C90909', 'park_id': '214510'}, 'headers': {'Content-Type': 'application/json', 'User-Agent': 'python-requests/2.18.4', 'app_version': '$app_version'}}, 'name': '测试用例', 'variables': [{'kw': 'cc'}, {'app_version': '2.8.6'}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-25 10:05:26,251 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-25 10:09:48,377 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- qa 配置配置添加成功: {'config': {'request': {}, 'name': 'qa 配置', 'variables': [{'qa-key': '2342334dsfhl34'}, {'gray-key': '3E7EAAB95093177822A5E73D97A75253'}]}}
+2019-11-25 10:11:40,434 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 's?ie=utf-8', 'method': 'POST', 'json': {'arrive_ls': '5ea93e090b', 'arrive_time': '20191124230819', 'car_license': '川J12345', 'park_id': '214510'}, 'headers': {'Content-Type': 'application/json', 'User-Agent': 'python-requests/2.18.4', 'app_version': '$app_version'}}, 'name': '测试用例', 'variables': [{'kw': 'cc'}, {'app_version': '2.8.6'}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-25 10:17:49,791 [HttpRunnerManager:201] [operation:add_config_data] [INFO]- qa 配置配置更新成功: {'config': {'request': {}, 'name': 'qa 配置', 'variables': [{'qa-key': '2342334dsfhl34'}, {'gray-key': '3E7EAAB95093177822A5E73D97A75253'}, {'SECRET_KEY': '3E7EAAB95093177822A5E73D97A75253'}]}}
+2019-11-25 10:23:51,740 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 'TaxedServerTrans/ArriveUpload', 'method': 'POST', 'json': {'arrive_ls': '5ea93e090b', 'arrive_time': '20191124230819', 'car_license': '川J12345', 'park_id': '214510'}, 'headers': {'Content-Type': 'application/json', 'User-Agent': 'python-requests/2.18.4', 'app_version': '$app_version'}}, 'name': '测试用例', 'variables': [{'kw': 'cc'}, {'app_version': '2.8.6'}], 'parameters': [{'pid': ['12345']}, {'tstamp': ['1573439802']}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-25 10:33:06,600 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例用例更新成功: {'test': {'request': {'url': 'TaxedServerTrans/ArriveUpload', 'method': 'POST', 'json': {'arrive_ls': '5ea93e090b', 'arrive_time': '20191124230819', 'car_license': '川J12345', 'park_id': '214510'}, 'headers': {'Content-Type': 'application/json', 'User-Agent': 'python-requests/2.18.4', 'app_version': '$app_version'}}, 'name': '测试用例', 'variables': [{'kw': 'cc'}, {'app_version': '2.8.6'}], 'parameters': [{'pid': ['12345']}, {'tstamp': ['1573439802']}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-25 10:33:24,675 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- 灰度access配置添加成功: {'config': {'request': {}, 'name': '灰度access'}}
+2019-11-25 13:49:46,064 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-25 13:57:22,659 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-25 13:57:40,896 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-25 14:01:42,832 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-26 11:22:11,284 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-26 11:22:20,077 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-26 11:24:35,616 [HttpRunnerManager:62] [operation:add_project_data] [INFO]- 项目添加成功：{'project_name': '共享预约停车信息通知接口', 'responsible_name': '张映熊', 'test_user': '张映熊', 'dev_user': '付筠杰', 'publish_app': 'access', 'simple_desc': '共享预约停车信息通知接口\r\n推送预约信息和预约费用查询', 'other_desc': ''}
+2019-11-26 11:25:44,295 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- 模块添加成功：{'module_name': '共享预约停车信息通知接口', 'test_user': '张映熊', 'simple_desc': '5.1 预约信息同步', 'other_desc': '云平台产生的预约订单同步给服务商\r\n ', 'belong_project': <ProjectInfo: ProjectInfo object (3)>}
+2019-11-26 11:34:16,113 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 正常预约预约接口用例添加成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'reserveOrderNo': '123', 'reservePlateNumber': '川A231AA', 'thirdLotNo': '31fds13333', 'reserveOrderTime': '2019-11-25 17:29:00', 'reserveStartTime': '2019-11-25 17:29:10', 'reserveEndTime': '2019-11-26 17:29:10', 'thirdSpaceNo': 'asdsad2132322', 'reserveSpaceName': '3楼 ABC'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '正常预约预约接口'}}
+2019-11-26 11:53:44,693 [HttpRunnerManager:192] [operation:add_config_data] [INFO]- QA access配置添加成功: {'config': {'request': {}, 'name': 'QA access', 'variables': [{'MERCHANT_KEY': 'etcp_key'}, {'time_stamp': '20191111132452'}, {'merchant_no': 'etcp'}]}}
+2019-11-26 12:56:16,174 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-26 13:44:32,101 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 正常预约预约接口用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'reserveOrderNo': '123', 'reservePlateNumber': '川A231AA', 'thirdLotNo': '31fds13333', 'reserveOrderTime': '2019-11-25 17:29:00', 'reserveStartTime': '2019-11-25 17:29:10', 'reserveEndTime': '2019-11-26 17:29:10', 'thirdSpaceNo': 'asdsad2132322', 'reserveSpaceName': '3楼 ABC'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '正常预约预约接口', 'setup_hooks': ['${setup_request($request, $MERCHANT_KEY, $time_stamp, $merchant_no)}'], 'teardown_hooks': []}}
+2019-11-26 13:59:04,842 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-26 13:59:56,405 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-26 14:27:07,437 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-26 14:41:34,237 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 正常预约预约接口用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'reserveOrderNo': '123', 'reservePlateNumber': '川A231AA', 'thirdLotNo': '31fds13333', 'reserveOrderTime': '2019-11-25 17:29:00', 'reserveStartTime': '2019-11-25 17:29:10', 'reserveEndTime': '2019-11-26 17:29:10', 'thirdSpaceNo': 'asdsad2132322', 'reserveSpaceName': '3楼 ABC'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '正常预约预约接口', 'setup_hooks': ["${setup_request($request, '$MERCHANT_KEY', '$time_stamp', '$merchant_no')}"], 'teardown_hooks': []}}
+2019-11-26 14:54:03,093 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 正常预约预约接口用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'reserveOrderNo': '123', 'reservePlateNumber': '川A231AA', 'thirdLotNo': '31fds13333', 'reserveOrderTime': '2019-11-25 17:29:00', 'reserveStartTime': '2019-11-25 17:29:10', 'reserveEndTime': '2019-11-26 17:29:10', 'thirdSpaceNo': 'asdsad2132322', 'reserveSpaceName': '3楼 ABC'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '正常预约预约接口', 'setup_hooks': ["${setup_request($request, '${ENV(MERCHANT_KEY)}', '${ENV(time_stamp)}', '${ENV(merchant_no)}')}"], 'teardown_hooks': []}}
+2019-11-26 15:04:42,200 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 正常预约预约接口用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'reserveOrderNo': '123', 'reservePlateNumber': '川A231AA', 'thirdLotNo': '31fds13333', 'reserveOrderTime': '2019-11-25 17:29:00', 'reserveStartTime': '2019-11-25 17:29:10', 'reserveEndTime': '2019-11-26 17:29:10', 'thirdSpaceNo': 'asdsad2132322', 'reserveSpaceName': '3楼 ABC'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '正常预约预约接口', 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 15:05:00,142 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-26 15:24:38,448 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 正常预约预约接口用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'reserveOrderNo': '1232323223', 'reservePlateNumber': '川A231AA', 'thirdLotNo': '31fds13333', 'reserveOrderTime': '2019-11-25 17:29:00', 'reserveStartTime': '2019-11-25 17:29:10', 'reserveEndTime': '2019-11-26 17:29:10', 'thirdSpaceNo': 'asdsad2132322', 'reserveSpaceName': '3楼 ABC'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '正常预约预约接口', 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 15:32:51,559 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 正常预约预约接口用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'reservePlateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '正常预约预约接口', 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 15:36:54,577 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 正常预约预约接口用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '正常预约预约接口', 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 15:55:00,048 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（异常查询）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（异常查询）', 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 15:57:32,407 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（异常查询）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（异常查询）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': '200'}, {'comparator': 'equals', 'check': 'content.json.code', 'expected': '400'}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 15:59:25,413 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（查询格式异常）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（查询格式异常）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': '200'}, {'comparator': 'equals', 'check': 'content.json.code', 'expected': '400'}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:05:00,003 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（查询格式异常）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（查询格式异常）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': '200'}, {'comparator': 'equals', 'check': 'content.data.code', 'expected': '400'}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:05:24,733 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（查询格式异常）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（查询格式异常）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': '200'}, {'comparator': 'equals', 'check': 'content.code', 'expected': '400'}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:08:37,816 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（查询格式异常）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（查询格式异常）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': '200'}, {'comparator': 'equals', 'check': 'body.code', 'expected': '400'}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:10:29,935 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（查询格式异常）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（查询格式异常）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'body.code', 'expected': '400'}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:11:12,053 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（查询格式异常）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（查询格式异常）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'body.code', 'expected': 400}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:12:43,756 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（查询格式异常）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（查询格式异常）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 400}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:16:27,686 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:20:34,099 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（车牌号异常）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '川A231AA or 1=1'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（车牌号异常）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 400}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:27:21,345 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（车牌号异常1）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '川川231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（车牌号异常1）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 400}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 16:28:04,581 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（车牌号异常2）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'1plateNumber': '231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（车牌号异常2）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 400}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 17:00:22,671 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A2P9PP9'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 17:00:33,688 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A2P9PP9'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 17:28:44,302 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-26 17:28:54,796 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川AP9PP9'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-26 17:43:28,164 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询( 未预约)用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A231AA'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询( 未预约)', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-11-27 09:33:59,083 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-27 09:34:04,867 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-27 10:39:00,570 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-27 13:49:53,316 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-28 14:25:10,213 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-28 15:39:33,495 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-11-28 15:50:14,703 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-29 14:56:15,998 [django.request:228] [log:log_response] [WARNING]- Not Found: /api/
+2019-11-29 14:56:35,724 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-29 14:59:53,290 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-29 15:14:35,318 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-29 15:14:42,877 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-29 15:17:20,424 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-29 15:22:38,323 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-29 15:36:41,342 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-29 15:36:48,359 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-29 15:42:05,271 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-29 15:42:21,952 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-29 15:51:40,570 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-29 15:51:51,404 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-29 15:54:08,498 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-29 15:54:18,367 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-11-29 16:11:38,509 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-11-29 16:11:45,147 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-02 09:34:30,856 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-02 09:34:37,198 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-02 10:24:26,019 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川PP9PP9'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-12-02 10:26:44,407 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川AP9PP9'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-12-02 10:28:30,706 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川PP9PP9'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-12-02 10:29:51,900 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-02 10:39:26,585 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A534DL'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-12-02 10:42:21,738 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川pp9pp9'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-12-02 11:50:06,161 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A534DL'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-12-02 15:21:46,403 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川A45666'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-12-02 16:03:42,870 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-02 16:04:05,720 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 预约费用查询（已预约）用例更新成功: {'test': {'request': {'url': 'parking/share/reserve/outInfo', 'method': 'POST', 'json': {'plateNumber': '川PP9PP9'}, 'headers': {'Content-Type': 'application/json', 'charset': 'utf-8'}}, 'name': '预约费用查询（已预约）', 'validate': [{'comparator': 'equals', 'check': 'status_code', 'expected': 200}, {'comparator': 'equals', 'check': 'content.code', 'expected': 0}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-12-03 15:33:10,770 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-10 15:38:13,012 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-10 15:38:19,214 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-10 15:41:06,510 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-10 15:41:14,075 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-10 15:42:43,847 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-13 10:28:15,902 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-13 10:31:34,827 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-13 10:32:09,468 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-13 10:32:15,359 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-13 11:03:48,172 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-13 11:03:54,513 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-13 11:33:23,873 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 237, in run_test
+    shutil.rmtree(testcase_dir_path)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 516, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 395, in _rmtree_unsafe
+    _rmtree_unsafe(fullname, onerror)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 404, in _rmtree_unsafe
+    onerror(os.rmdir, path, sys.exc_info())
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 402, in _rmtree_unsafe
+    os.rmdir(path)
+OSError: [WinError 145] 目录不是空的。: 'D:\\HttpRunnerManager\\suite\\2019-12-13 11-18-32-119\\共享预约停车信息通知接口'
+2019-12-13 14:23:32,158 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-13 14:23:57,679 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-13 15:39:45,427 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-13 15:39:57,044 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-16 10:43:22,099 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-16 10:43:43,410 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 13:58:49,393 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-23 13:59:44,233 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 14:18:34,056 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-23 14:19:18,003 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 14:28:14,015 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-23 14:28:46,208 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 14:34:28,520 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例1用例添加成功: {'test': {'request': {'url': '/test/test', 'method': 'POST', 'json': {'key': 'value'}}, 'name': '测试用例1', 'variables': [{'zzz': '234'}]}}
+2019-12-23 14:45:53,979 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/run_test/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 237, in run_test
+    shutil.rmtree(testcase_dir_path)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 516, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 395, in _rmtree_unsafe
+    _rmtree_unsafe(fullname, onerror)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 404, in _rmtree_unsafe
+    onerror(os.rmdir, path, sys.exc_info())
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\shutil.py", line 402, in _rmtree_unsafe
+    os.rmdir(path)
+OSError: [WinError 145] 目录不是空的。: 'D:\\HttpRunnerManager\\suite\\2019-12-23 14-44-55-252\\测试'
+2019-12-23 14:48:18,371 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-12-23 14:48:32,764 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-12-23 14:49:19,028 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例2用例添加成功: {'test': {'request': {'url': '/test/test', 'method': 'POST', 'json': {'arrive_ls': '5ea93e090b', 'arrive_time': '20191124230819', 'car_license': '川J12345', 'park_id': '214510'}}, 'name': '测试用例2'}}
+2019-12-23 14:51:46,098 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例3用例添加成功: {'test': {'request': {'url': '/test', 'method': 'POST', 'params': {'test': '12312', 'kw': 'ffddsfd'}}, 'name': '测试用例3'}}
+2019-12-23 14:53:31,769 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-23 14:53:48,080 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 14:56:00,818 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例5用例添加成功: {'test': {'request': {'url': '/dsds/', 'method': 'POST', 'json': {'key': 'value'}}, 'name': '测试用例5'}}
+2019-12-23 15:00:43,789 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例6用例添加成功: {'test': {'request': {'url': '/zzz', 'method': 'POST', 'data': {'kw': "${sign_md5('1','3','4')}", 'content.code': "${sign_md5('1','3','4')}"}}, 'name': '测试用例6'}}
+2019-12-23 15:24:18,710 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-23 15:24:26,094 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 15:57:28,112 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例111用例添加成功: {'test': {'request': {'url': '/zcsdfsd', 'method': 'POST', 'json': {'arrive_ls': '5ea93e090b', 'arrive_time': '20191124230819', 'car_license': '川J12345', 'park_id': '214510'}}, 'name': '测试用例111'}}
+2019-12-23 16:00:29,880 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例1111用例添加成功: {'test': {'request': {'url': '/jhnbgh', 'method': 'POST', 'json': {'arrive_ls': '5ea93e090b', 'arrive_time': '20191124230819', 'car_license': '川J12345', 'park_id': '214510'}, 'headers': {'merchant_no': '${sign_md5(1,2,3)}'}}, 'name': '测试用例1111'}}
+2019-12-23 17:41:16,445 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例21用例添加成功: {'test': {'request': {'url': '/jjjj', 'method': 'POST', 'params': {'kw': "${sign_md5('1','3','4')}", 'content.code': '${calc_sign("1"",2",signkey)}', 'merchant_no': '${calc_sign("1"",2",signkey)}'}}, 'name': '测试用例21'}}
+2019-12-23 17:42:34,844 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-23 17:42:49,317 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 17:45:56,031 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-23 17:46:16,739 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 17:52:07,012 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-23 17:52:14,329 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 17:53:09,384 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-23 17:53:22,928 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-23 18:21:23,037 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例123用例添加成功: {'test': {'request': {'url': '/ddd', 'method': 'POST', 'json': {'key': 'value'}}, 'name': '测试用例123'}}
+2019-12-23 18:25:40,418 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例z用例添加成功: {'test': {'request': {'url': '/zsd', 'method': 'POST', 'json': {'key': 'value'}}, 'name': '测试用例z'}}
+2019-12-24 09:57:08,180 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 10:08:14,417 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例te用例添加成功: {'test': {'request': {'url': '/ffdsf', 'method': 'POST', 'params': {'content.code': "${calc_md5('1','3','4')}"}}, 'name': '测试用例te'}}
+2019-12-24 11:26:02,035 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例123那你用例添加成功: {'test': {'request': {'url': '', 'method': 'POST', 'params': {}}, 'name': '测试用例123那你'}}
+2019-12-24 11:50:23,528 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 11:50:30,455 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 11:52:43,811 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 175, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 272, in case_info_logic
+    request_json = test.get('request').pop('json')
+KeyError: 'json'
+2019-12-24 11:53:31,779 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 11:53:41,312 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 11:54:07,688 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 175, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 272, in case_info_logic
+    request_json = test.get('request').pop('request_json')
+KeyError: 'request_json'
+2019-12-24 11:56:07,945 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 175, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 272, in case_info_logic
+    request_json = test.get('request').pop('request_json')
+KeyError: 'request_json'
+2019-12-24 11:56:52,768 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 11:58:14,079 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 11:58:20,270 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 11:59:29,257 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例123434用例添加成功: {'test': {'request': {'url': '/zzz', 'method': 'POST', 'type': 'json', 'json': {'key': 'value'}, 'params': {'test': [{'key': 'content.code', 'type': 'string', 'value': "${sign_md5('1','3','4')}"}, {'key': 'content.code', 'type': 'string', 'value': '${calc_sign("1"",2",signkey)}'}]}}, 'name': '测试用例123434'}}
+2019-12-24 13:59:03,603 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例zx用例添加成功: {'test': {'request': {'url': '/zxc', 'method': 'POST', 'type': 'json', 'json': {'key': 'value'}, 'params': {'test': [{'key': 'content.code', 'type': 'string', 'value': '${calc_sign("1"",2",signkey)}'}]}}, 'name': '测试用例zx'}}
+2019-12-24 14:07:45,087 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 14:08:09,224 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 14:12:49,174 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例12343456789用例添加成功: {'test': {'request': {'url': '/zxxxx', 'method': 'POST', 'type': 'json', 'json': {'key': 'value'}, 'params': {'test': [{'key': 'content.code', 'type': 'string', 'value': "${sign_md5('1','3','4')}"}, {'key': 'kw', 'type': 'string', 'value': '${calc_sign("1"",2",signkey)}'}]}}, 'name': '测试用例12343456789'}}
+2019-12-24 14:27:41,150 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 14:28:24,521 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 14:33:08,489 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 14:33:43,079 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例1DFASD用例添加成功: {'test': {'request': {'url': '/xcxxxx', 'method': 'POST', 'json': {'key': 'value'}, 'params': {'test': [{'key': 'kw', 'type': 'string', 'value': "${sign_md5('1','3','4')}"}]}}, 'name': '测试用例1DFASD'}}
+2019-12-24 14:36:25,351 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例1111111zzzz用例添加成功: {'test': {'request': {'url': '/pop', 'method': 'POST', 'json': {'key': 'value'}, 'params': {'test': [{'key': 'kw', 'type': 'string', 'value': '123'}]}}, 'name': '测试用例1111111zzzz'}}
+2019-12-24 15:30:27,596 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 15:30:45,206 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 15:31:55,143 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例bf用例添加成功: {'test': {'request': {'url': '/zxc', 'method': 'POST', 'params': {'test': [{'key': 'kw', 'type': 'string', 'value': '123'}]}}, 'name': '测试用例bf'}}
+2019-12-24 15:42:18,753 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 15:42:24,696 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 15:42:51,902 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例bcccc用例添加成功: {'test': {'request': {'url': '/zzzz', 'method': 'POST', 'params': {'test': [{'kw': '123'}]}}, 'name': '测试用例bcccc'}}
+2019-12-24 15:47:13,363 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 15:47:19,053 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 15:48:17,425 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 15:48:22,871 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 15:51:33,508 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 15:51:37,634 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-24 15:52:36,961 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例qwe用例添加成功: {'test': {'request': {'url': '/fddf', 'method': 'POST', 'params': {'kw': '12334'}}, 'name': '测试用例qwe'}}
+2019-12-24 15:52:59,208 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-12-24 15:53:02,650 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-12-24 15:54:49,310 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例123vvvsdfd用例添加成功: {'test': {'request': {'url': '/fdfd', 'method': 'POST', 'json': {'key': 'value'}, 'params': {'kw': '1233'}}, 'name': '测试用例123vvvsdfd'}}
+2019-12-24 16:00:11,776 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-24 16:00:15,655 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-25 09:51:27,691 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-25 09:52:21,075 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-25 09:53:59,914 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-25 09:54:04,740 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-25 09:55:54,468 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例123vvvsdfd用例更新成功: {'test': {'request': {'url': '/fdfd', 'method': 'POST', 'json': {'key1111': 'value2222'}}, 'name': '测试用例123vvvsdfd'}}
+2019-12-25 10:39:39,378 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-25 10:40:08,370 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-25 10:41:16,325 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例asdas用例添加成功: {'test': {'request': {'url': '/dsdsd', 'method': 'POST', 'json': {'key11': 'value222'}, 'params': {'kw': '123', 'qa-key': 'zzz'}}, 'name': '测试用例asdas'}}
+2019-12-26 14:14:30,190 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 14:57:39,516 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 15:03:26,842 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 15:08:35,759 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 15:08:51,407 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 15:12:27,740 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 15:12:41,021 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 15:12:48,356 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 16:36:28,174 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 16:36:52,348 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 16:38:35,448 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 16:38:47,069 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 16:53:05,383 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 16:53:25,779 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 17:04:52,098 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 17:06:32,836 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 17:09:14,361 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 17:09:19,212 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 17:20:13,648 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 17:20:22,279 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 17:23:57,254 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 17:24:00,611 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 17:31:36,231 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 17:31:40,964 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 18:21:56,914 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 18:22:08,529 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 18:30:15,038 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 18:30:20,698 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 18:32:55,498 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 18:32:59,276 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 18:34:01,897 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-26 18:34:08,290 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-26 18:38:19,014 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-12-26 18:38:19,252 [django.request:228] [log:log_response] [WARNING]- Not Found: /gen204
+2019-12-27 09:32:08,560 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-27 09:32:15,724 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-27 09:33:59,978 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例1227用例添加成功: {'test': {'request': {'url': '/test/lol', 'method': 'POST', 'params': {'kw': "${sign_md5('1','3','4')}", 'SECRET_KEY': '${sign_md5(1,2,3)}'}, 'data': {'kw': '$kw', 'qa-key': '${calc_sign("1"",2",signkey)}'}}, 'name': '测试用例1227'}}
+2019-12-27 09:37:32,273 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/edit_case/34/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 431, in edit_case
+    request = eval(test_info[0].request)
+  File "<string>", line 1
+    {'test': {'request': {'url': '/test/lol', 'method': 'POST', 'params': {'kw': "123}, 'SECRET_KEY': '333'}, 'data': {'kw': '12kw', 'qa-key': 'ffff'}}, 'name': '测试用例1227'}}
+                                                                                                                                                                            ^
+SyntaxError: EOL while scanning string literal
+2019-12-27 09:37:41,685 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/edit_case/34/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 431, in edit_case
+    request = eval(test_info[0].request)
+  File "<string>", line 1
+    {'test': {'request': {'url': '/test/lol', 'method': 'POST', 'params': {'kw': "123}, 'SECRET_KEY': '333'}, 'data': {'kw': '12kw', 'qa-key': 'ffff'}}, 'name': '测试用例1227'}}
+                                                                                                                                                                            ^
+SyntaxError: EOL while scanning string literal
+2019-12-27 09:38:32,538 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例cdsdss用例添加成功: {'test': {'request': {'url': '/test', 'method': 'POST', 'params': {'kw': '1', 'merchant_no': '2'}, 'data': {'kw': '123'}}, 'name': '测试用例cdsdss'}}
+2019-12-27 09:47:28,175 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-27 09:47:36,903 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-27 13:09:35,538 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-27 13:11:06,384 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-27 13:12:01,609 [django.request:228] [log:log_response] [ERROR]- Internal Server Error: /api/edit_case/34/
+Traceback (most recent call last):
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator.DESKTOP-UVKAS10\AppData\Local\Programs\Python\Python37-32\lib\site-packages\django\core\handlers\base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 39, in wrapper
+    return func(request, *args, **kwargs)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 431, in edit_case
+    request = eval(test_info[0].request)
+  File "<string>", line 1
+    {'test': {'request': {'url': '/test/lol', 'method': 'POST', 'params': {'kw': "123}, 'SECRET_KEY': '333'}, 'data': {'kw': '12kw', 'qa-key': 'ffff'}}, 'name': '测试用例1227'}}
+                                                                                                                                                                            ^
+SyntaxError: EOL while scanning string literal
+2019-12-27 13:14:18,475 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例fff用例添加成功: {'test': {'request': {'url': '/ggggg', 'method': 'POST', 'json': {'key': 'value'}, 'params': {'kw': 'zzzz'}, 'data': {'kw': '1233'}}, 'name': '测试用例fff'}}
+2019-12-27 13:59:01,063 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-27 13:59:05,632 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-27 14:04:02,034 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-27 14:04:07,088 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-27 14:13:58,352 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-27 14:14:02,593 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-27 18:26:08,964 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2019-12-27 18:26:13,485 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2019-12-27 18:30:23,839 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- 测试用例ooo用例添加成功: {'test': {'request': {'url': 'TaxedServerTrans/ArriveUpload', 'method': 'POST', 'json': {'arrive_ls': '31604955', 'arrive_time': '20191225095926', 'car_license': '川ZCM201', 'park_id': '100904000195'}, 'params': {'tstamp': '1573439802', 'pid': '123441', 'sv': '${calc(sv)}'}, 'data': {}}, 'name': '测试用例ooo', 'variables': [{'${setup_request($request)}': ''}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2019-12-27 18:37:31,330 [HttpRunnerManager:163] [operation:add_case_data] [INFO]- 测试用例ooo用例更新成功: {'test': {'request': {'url': 'TaxedServerTrans/ArriveUpload', 'method': 'POST', 'json': {'arrive_ls': '31604955', 'arrive_time': '20191225095926', 'car_license': '川ZCM201', 'park_id': '100904000195'}, 'params': {'tstamp': '1573439802', 'pid': '123441'}}, 'name': '测试用例ooo', 'variables': [{}], 'setup_hooks': ['${setup_request($request)}'], 'teardown_hooks': []}}
+2020-01-02 10:20:02,948 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2020-01-02 10:20:09,166 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2020-01-02 10:46:05,842 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2020-01-02 10:46:15,864 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
+2020-01-02 10:47:31,158 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2020-01-02 10:47:36,525 [HttpRunnerManager:55] [views:login] [INFO]- testmanager 登录成功
